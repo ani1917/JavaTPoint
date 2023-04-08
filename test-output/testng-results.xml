@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T12:37:39 EDT" name="Default suite" finished-at="2023-04-04T12:38:08 EDT" duration-ms="29231">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T12:37:39 EDT" name="Default test" finished-at="2023-04-04T12:38:08 EDT" duration-ms="29231">
+      <class name="javaTpointTests.DataproviderTests">
+        <test-method is-config="true" signature="browseractionsopen()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:37:40 EDT" name="browseractionsopen" finished-at="2023-04-04T12:37:47 EDT" duration-ms="7903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsopen -->
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:37:47 EDT" name="printData" data-provider="getData" finished-at="2023-04-04T12:37:51 EDT" duration-ms="3972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21567.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Emps]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printData -->
+        <test-method is-config="true" signature="browseractionsclose()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:37:51 EDT" name="browseractionsclose" finished-at="2023-04-04T12:37:52 EDT" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsclose -->
+        <test-method is-config="true" signature="browseractionsopen()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:37:52 EDT" name="browseractionsopen" finished-at="2023-04-04T12:37:58 EDT" duration-ms="5809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsopen -->
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:37:58 EDT" name="printData" data-provider="getData" finished-at="2023-04-04T12:38:01 EDT" duration-ms="3268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22344.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MMTS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printData -->
+        <test-method is-config="true" signature="browseractionsclose()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:38:01 EDT" name="browseractionsclose" finished-at="2023-04-04T12:38:01 EDT" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsclose -->
+        <test-method is-config="true" signature="browseractionsopen()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:38:01 EDT" name="browseractionsopen" finished-at="2023-04-04T12:38:06 EDT" duration-ms="5220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsopen -->
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:38:06 EDT" name="printData" data-provider="getData" finished-at="2023-04-04T12:38:08 EDT" duration-ms="1423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2233.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TTPS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printData -->
+        <test-method is-config="true" signature="browseractionsclose()[pri:0, instance:javaTpointTests.DataproviderTests@576d5deb]" started-at="2023-04-04T12:38:08 EDT" name="browseractionsclose" finished-at="2023-04-04T12:38:08 EDT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseractionsclose -->
+      </class> <!-- javaTpointTests.DataproviderTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
